@@ -1,4 +1,3 @@
-# Linear hierarchical forecasting
+# linear-hierarchical-forecasting
 
-Paper with Mahsa on forecasting using linear models with reconciliation
-
+Paper on forecasting using linear models with reconciliation.
